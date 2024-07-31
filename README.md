@@ -1,2 +1,1 @@
-# Curso-Henry
-Este es mi primer repositorio de henry
+Este proyecto es para ver como copiar mi repositorio
